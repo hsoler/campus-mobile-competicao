@@ -1,0 +1,21 @@
+3C3R
+Metodologia de formulação de problema em educação.
+
+9 Step
+Pipeline de formulação de problema em educação. Extensão do 3C3R.
+
+ASGD
+Metodologia de geração de ideia de jogo.
+
+Design Principles
+Conjunto de (54) princípios de design para apoiar na formulação do desenho de jogo.
+
+GAMED
+Metodologia de desenvolvimento de jogos digitais educacionais. Baseado no ciclo de desenvolvimento de software. Composto por processos, resultados e outros componentes. Particiona o ciclo de desenvolvimento do jogo em quatro fases. Dá maior enfoque às duas primeiras fases.
+
+GOM2
+Metodologia de formulação de desenho de jogo. Exige conhecimento teórico aprofundado em pedagogia. Baseado em várias abordagens na pedagogia. Baseado no modelo de orientação a objetos na programação. Dá maior enfoque à conexão entre os componentes do jogo e os objetivos de aprendizado.
+
+GREM
+Metodologia de formulação de desenho de jogo. Inspirado no GOM2. Exige pouco conhecimento teórico em pedagogia. Particiona a especificação de desenho de jogo em dois componentes: o Modelo de Regra e o Modelo de Cenário.
+
